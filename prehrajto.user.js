@@ -2,6 +2,7 @@
 // @name        prehrajto
 // @namespace   Violentmonkey Scripts
 // @match       *://prehraj.to/*
+// @match       *://prehrajto.cz/*
 // @grant       none
 // @version     1.0
 // @author      -
