@@ -11,6 +11,6 @@
 h1 = document.getElementsByTagName("h1")[0];
 buttons = "";
 sources.videos.map((item) => {
-    buttons += `<a src="${item.src}">${item.res}p</a><br>`;
+    buttons += `<a href="${item.src}">${item.res}p</a><br>`;
 });
 h1.innerHTML = `${h1.innerHTML}<br/>${buttons}`;
