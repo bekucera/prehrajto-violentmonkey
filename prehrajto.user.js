@@ -5,7 +5,7 @@
 // @match       *://prehrajto.cz/*
 // @grant       none
 // @version     1.0
-// @author      -
+// @author      bekucera
 // @description 5/10/2024, 10:46:53 AM
 // ==/UserScript==
 
