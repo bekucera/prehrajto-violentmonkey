@@ -12,7 +12,7 @@ window.addEventListener('load', function () {
     h1 = document.getElementsByTagName("h1")[0];
     buttons = "";
     sources.videos.map((item) => {
-        buttons += `<a src="${item.src}">${item.res}</a><br>`;
+        buttons += `<a src="${item.src}">${item.res}p</a><br>`;
     });
     h1.innerHTML = `${h1.innerHTML}<br/>${buttons}`;
     console.log();
