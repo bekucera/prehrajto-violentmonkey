@@ -1,4 +1,4 @@
-# Návod na instalaci Violentmonkey a uživatelského skriptu
+# Návod na instalaci
 
 ## 1. Instalace Violentmonkey
 
