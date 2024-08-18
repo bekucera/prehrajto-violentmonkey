@@ -5,9 +5,9 @@
 1. Otevřete váš webový prohlížeč.
 2. Přejděte na [stránku Violentmonkey v obchodě s rozšířeními](https://violentmonkey.github.io/get-it/).
 3. Vyberte váš prohlížeč a klikněte na odkaz ke stažení:
-   - **Chrome**: [Chrome Web Store](https://chrome.google.com/webstore/detail/violentmonkey/djhkmfcnlfaeibkfbhpaibdjbajbbaea)
+   - **Chrome**: [Chrome Web Store](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
    - **Firefox**: [Mozilla Add-ons](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
-   - **Microsoft Edge**: [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/violentmonkey/mkpkkjpbcbkmafbhpdmcjbfkjpkkbfig)
+   - **Microsoft Edge**: [Microsoft Edge Add-ons](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
 4. Klikněte na tlačítko „Přidat“ nebo „Instalovat“ a potvrďte instalaci.
 
 ## 2. Instalace uživatelského skriptu
