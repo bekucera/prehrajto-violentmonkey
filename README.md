@@ -23,7 +23,7 @@
    3. rozkliknete ho a pod video přehrávačem prehrajta uvidíte čeveným textem napsáno: 1080p nebo 720p nebo 480p, to jsou kvality ve kterých je video dostupné.
    4. Když kliknete na jednu z kvalit videa, otevře se vám automaticky v prohlížeči odkaz na kterém je možné sledovat video zdarma ve vybrané kvalitě a je možno ho i stáhnout.
 
-## 4. Stažení filmu
+## 4. Stažení filmu
 
    1. Uděláte to samé jako když chcete film přehrát (Krok 3.)
    2. Na video které se vám přehrává kliknete pravým tlačítkem na myši a kliknete na uložit jako (Vyzkoušeno ve firefoxu a google chromu)
